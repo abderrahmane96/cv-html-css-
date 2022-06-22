@@ -81,6 +81,7 @@ button{
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+    margin: 50px 0 30px 0;
 }
 button:hover{ 
     background: #3ce3cb;
